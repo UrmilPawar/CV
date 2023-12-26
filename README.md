@@ -4,3 +4,6 @@ The CV consists of three pages
 - Introduction
 - Hobbies
 - Contact
+
+### Following is the image
+![Intro_page](CV_img.png)
